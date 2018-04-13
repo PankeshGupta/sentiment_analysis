@@ -1,8 +1,8 @@
 model_name: Sentiment Analysis
 model_desc:
-  description: Sentiment from text
+  description: Identify and extract sentiment in given string. Sentiment analysis (also known as opinion mining) refers to the use of natural language processing, text analysis and computational linguistics to identify and extract subjective information in source materials. This algorithm takes an input string and assigns a sentiment.
   details: dummy details
-  keywords: [regression, machine learning]
+  keywords: [nlp, sentimentanalysis,text analysis]
   type: regression
 model_info: {category: text_analysis}
 model_log: {created_at: 20-03-2018}
