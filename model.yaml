@@ -6,6 +6,7 @@ model_desc:
   type: regression
 model_info: {category: text_analysis}
 model_log: {created_at: 20-03-2018}
+example: { input: { text: Akira is so awesome}, output: { result: Happy} }
 model_versions:
 - v0.1: {category: incubate, features: This is the basic model, release_date: 20-03-2018,
     release_notes: First of the incubate}
